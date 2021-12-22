@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zombies_hologrambug_fixer",
+  "name": "Zombies Hologram Fixer",
+  "description": "ZHF 1.12.2 migration from original released version of 1.8.9.",
+  "version": "1.4.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thamid", "Shiratama_Risu"],
+  "credits": "The Forge and FML and thamid the original author of this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
